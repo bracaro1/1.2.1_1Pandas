@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="local" value="true" />
+          <option name="token" value="2faaf858e27b54de7397c4e7a2229fb7753b4373844456af" />
+          <option name="urlString" value="http://localhost:8888" />
+          <authParams2>
+            <map>
+              <entry key="token" value="2faaf858e27b54de7397c4e7a2229fb7753b4373844456af" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/1.2.1_1Pandas.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="local" value="true" />
+              <option name="token" value="2faaf858e27b54de7397c4e7a2229fb7753b4373844456af" />
+              <option name="urlString" value="http://localhost:8888" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="2faaf858e27b54de7397c4e7a2229fb7753b4373844456af" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
